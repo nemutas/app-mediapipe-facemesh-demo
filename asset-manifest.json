@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/app-mediapipe-facemesh-demo/static/css/main.2b551b6c.chunk.css",
+    "main.js": "/app-mediapipe-facemesh-demo/static/js/main.3a765e78.chunk.js",
+    "main.js.map": "/app-mediapipe-facemesh-demo/static/js/main.3a765e78.chunk.js.map",
+    "runtime-main.js": "/app-mediapipe-facemesh-demo/static/js/runtime-main.9c0e43d3.js",
+    "runtime-main.js.map": "/app-mediapipe-facemesh-demo/static/js/runtime-main.9c0e43d3.js.map",
+    "static/js/2.1f11fd6b.chunk.js": "/app-mediapipe-facemesh-demo/static/js/2.1f11fd6b.chunk.js",
+    "static/js/2.1f11fd6b.chunk.js.map": "/app-mediapipe-facemesh-demo/static/js/2.1f11fd6b.chunk.js.map",
+    "static/js/3.a3a1a009.chunk.js": "/app-mediapipe-facemesh-demo/static/js/3.a3a1a009.chunk.js",
+    "static/js/3.a3a1a009.chunk.js.map": "/app-mediapipe-facemesh-demo/static/js/3.a3a1a009.chunk.js.map",
+    "index.html": "/app-mediapipe-facemesh-demo/index.html",
+    "static/css/main.2b551b6c.chunk.css.map": "/app-mediapipe-facemesh-demo/static/css/main.2b551b6c.chunk.css.map",
+    "static/js/2.1f11fd6b.chunk.js.LICENSE.txt": "/app-mediapipe-facemesh-demo/static/js/2.1f11fd6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c0e43d3.js",
+    "static/js/2.1f11fd6b.chunk.js",
+    "static/css/main.2b551b6c.chunk.css",
+    "static/js/main.3a765e78.chunk.js"
+  ]
+}
